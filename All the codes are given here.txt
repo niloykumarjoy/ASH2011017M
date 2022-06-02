@@ -1,0 +1,154 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{INFORMATION TECHNOLOGY PROJECT}
+\author{Department ICE, NSTU }
+\date{01/6/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+We present our experience in designing a course of Introduction to Information
+Technology (IIT) for the first-year students. The main purpose of this course is
+to introduce the concepts of computing and computer, and to present a hierarchy
+of information technology (IT) knowledge from basic to advance through the
+introduction of syllabus system, research trends of our faculty, IT applications in
+society, ethics and career potentials in IT. The content of this course is set up to
+meet the Standard 4 in CDIO. We divide the introduction into two courses and
+teach the firstyear students in the first and second semesters. The first course is
+the introduction of computer, computing, internet, ethics, and some technical
+skills of analysis, design, implementation, and testing. This is an overview of
+IT from the outsiders. The second is a hierarchy of IT knowledge from basic
+to advance through education systems and research in our faculty. This is an
+overview of IT from inside viewpoint. We also present some experiences about
+the projectbased approach for labs and explain how we train personal skills
+and professional attitude for our students. Finally, we conclude by providing
+comments with pros and cons in operating the courses.
+\section{Keywords}
+Standard 4, Introduction to Information Technology, CDIO syllabus, Projectbased learning.
+\section{INTRODUCTION}
+In CDIO standard, the standard 4 [1] plays an important role to provide a
+general view about curriculum, syllabus system, future career and beginning
+concepts of CDIO for the first-year students in our university. Many similar
+works in engineering have been published in the CDIO conference. Ramon
+Brag´os, et. al. [2], presented a method that they have conceived, designed
+and implemented ”Introduction to Engineering” course at Telecom BCN, UPC,
+1
+Barcelona using the CDIO syllabus and standards. The basic concepts and professional skills were given to the students through lessons and simple projects.
+From that, the students were able to recognize problems of which solutions we
+were going to teach in the following courses of the curriculum. Yingzi Wang, et.
+al. [3], introduced the implementation of the cornerstone project. They transformed the name of “Introduction to Civil Engineering” into “Introduction to
+Civil Engineering Design”. The difference is that students are put into an environment where they could learn and use knowledge and professional skills to
+study design actively. Xiaohua Lu, et.al. [4], introduced one approach of multidisciplinary project for the introduction course. In his class, the students were
+divided into different disciplinary groups and joined in project-based learning.
+That project required students to design and build a computer-controlled tower
+crane at Shantou University. This process helped students to understand the
+different modules and the input/output of each module. As a result, the multidisciplinary project is a good approach to introduction courses. Proceedings of
+the 9th International CDIO Conference, Massachusetts Institute of Technology
+and Harvard University Goran Gustafsson, et. al. [5], presented his work of engineering education programs. The firstyear introductory course was discussed
+and shared to improve and increase student motivation. They have identified
+projects and teamwork as important parts of the first-year courses. With the
+CDIO approach, a new model for engineering education is developed to be able
+to implement this projects and professional skills. In many previous works, we
+rarely see the first-year introductory course to information technology (IT). In
+this paper, we present our experience in designing a course of Introduction to
+Information Technology (IIT) for the first-year students. On one hand, the main
+purpose of this course is to introduce the concepts of computing and computer,
+and to present a hierarchy of IT knowledge from basic to advance through the
+introduction of syllabus system, research trends of our faculty, IT applications
+in society, ethics and career potentials in IT. On the other hand, the purpose of
+this course will introduce the relationship between the contents of 4 year learning in the university with IT career after graduation to first-year students. The
+IIT course also shows students the social requirements to IT not only in Vietnam but also worldwide. After studying this course, the first-year student will
+have another point of view about their role in the development of IT. From that
+starting point, it will help students to think and navigate their future career in
+IT. It also influences to students’ decision in course selections for undergraduate
+program at the current time or their intention to enter the graduate program
+in the future. This course will also help the students to identify the importance
+of engineering skills and appropriate attitudes for the success in their future
+career path. From the above motivation, the design and implementation of this
+course have been considered seriously by our senior lecturers and professors in
+our faculty. We have already spent more than one year to prepare the learning
+outcome, syllabus, teaching/learning documents, and workspace for this course
+[6]. This paper will present our experiences in design, building, teaching, and
+evaluation of this course to the first-year students in 2012. The content of
+this paper is presented as follows; Section 2 presents the design and building
+2
+of course goals and learning outcomes for IIT course. Section 3 presents the
+approach of projectbased learning to embed CDIO concepts in teaching and
+training for students. Section 4 presents the meeting and feedback between IT
+companies and the first-year students. Section 5 presents the assessments and
+some rubrics for this course. Section 6 is our discussions about pros and cons
+in operating this course at our faculty. Section 7 is the conclusions.
+\section{Inserting Picture}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{Tec_pic.jpg}
+    \caption{Work flow to build a CDIO syllubus}
+    \label{fig:galaxy}
+\end{figure}
+\section{Algorithm complexity}
+\begin{table}[]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Algorithm & Best   & Case     & Expected \\ \hline
+Selection & sort   & O(N2)    & O(N2)    \\ \hline
+Merge     & sort   & O(NlogN) & O(NlogN) \\ \hline
+Linear    & search & O(1)     & O(N)     \\ \hline
+Binary    & search & O(1)     & O(logN   \\ \hline
+\end{tabular}
+\end{table}
+The first course is the introduction of computer, computing, internet, ethics, and some technical
+skills of analysis, design, implementation, and testing. This is an overview of IT from outside
+viewpoint. The second is a hierarchy of IT knowledge from basic to advance through systems of
+education and research in our faculty. This is an overview of IT from inside viewpoint of our
+faculty. The course goal of Introduction to Information Technology can be written into two stages
+as follows;
+\begin{left}
+    
+a) The course goals of the first course\end{left}
+1. Explain general knowledge of IT include basic knowledge about counting system,
+operating system, internet, email, and office applications.
+2. Describe the basic values related to professional ethics of those working in IT
+sector.
+3.Describe the work and job position in a company, related to IT, which is one IT
+student can undertake after graduation.
+4.Recognize the importance of self study, teamwork, and communication skills.
+5.Recognize the professional attitude, regulatory compliance, and reliability.
+\section{ASSESSMENT AND FEEDBACKS}
+Assessment is the main difference between CDIO approach and the conventional teaching
+methods. We divide 70% of final exam and 30% of project in the first course. Meanwhile, the
+ratio of final exam and project in the second course is 60% and 40%, respectively. The
+assessment of each project is checked monthly in three months. Figure 5 presents some rubrics
+of project and report evaluation. The detail of assessment has been shown to students at the
+beginning of the course. During the course, students have been reminded about the assessment
+and we have also encouraged them to provide a good strategy of learning for each group so that
+all members of the same group can receive a good result. In practice, the peer review gives
+objective evaluation. It helps students have a strong responsibility and a serious thinking about
+their contributions to the final results of their group.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{pro_eva.jpg}
+    \caption{Figure 5: Some rubrics of project and report evaluation.
+}
+    \label{fig:galaxy}
+\end{figure}
+\begin{center}
+Table 1 presents the feedbacks of 170 students and Table 2 gives the benchmark of score value.
+We can see that most distribution of feedbacks stays on “Agree” corresponding to the score
+value of 2. It means that the feedbacks of students are positive toward CDIO approach. However,
+there are still some complaints about overloaded and stressful because the first-year students
+have got a lot of project and homework deadlines from the first semester of the undergraduate
+program in the University.
+\end{center}
+\section{Equatios}
+\begin{equation}\label{my_first_eqn}
+ \int  xn.dx = x(n + 1)/(n + 1)+ C^{}
+\end{equation}
+\section{Reference}
+This is my first reference\cite{turban2001introduction}.
+\bibliographystyle{plain}
+\bibliography{reference}
+
+\end{document}
